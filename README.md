@@ -1,0 +1,2 @@
+# kernelsu
+root权限
